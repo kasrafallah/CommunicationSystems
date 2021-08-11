@@ -18,6 +18,6 @@ This course included four computer assignments, 8 theoretical homework, and a pr
 
 - #### [project](https://github.com/kasrafallah/CommunicationSystems/tree/main/project)
 <p align="center">
-<image align="center" src = "images/project.png" width="600">
+<image align="center" src = "images/project.png" width="500">
 </p>
 
