@@ -6,7 +6,18 @@ This course included four computer assignments, 8 theoretical homework, and a pr
 
 - #### [computer assignments](https://github.com/kasrafallah/CommunicationSystems/tree/main/cumputer_assignments)
 
+
+<p align="center">
+<image align="center" src = "images/ca.png" width="600">
+</p>
+
 - #### [theoretical assignments](https://github.com/kasrafallah/CommunicationSystems/tree/main/assignments)
+<p align="center">
+<image align="center" src = "images/ta.png" width="600">
+</p>
 
 - #### [project](https://github.com/kasrafallah/CommunicationSystems/tree/main/project)
+<p align="center">
+<image align="center" src = "images/project.png" width="600">
+</p>
 
